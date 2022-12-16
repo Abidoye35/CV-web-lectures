@@ -1,0 +1,79 @@
+body{
+    background-color:bisque
+}
+
+body {
+    background-image: url(images/docyard.webp2.avif)
+   
+}
+
+p {
+    background-image: url(images/docyard.webp);
+}
+
+#div1 {
+    background-color: yellow;
+    height: 100px;
+    width: max(50%, 200px);
+}
+  
+div {
+    background-color: transparent;
+}
+
+img{
+
+    margin-left: auto; 
+    margin-right: right;
+    display: block;
+    box-shadow: 20px 20px;
+}
+
+img{
+    width:300px;
+    border: 5px blue;
+}
+
+
+    p{
+      color: blue;
+    }
+
+.import-text{
+    color:antiquewhite;
+    border: black;
+    padding: 15px;
+}
+
+.important-content {
+    text-align:center;
+    background-color: white;
+    width: 70;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.top-content{background-color: black;
+
+}
+.important-content{
+    background-color:yellow
+}
+
+.header{
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 20px;
+}
+
+.bottom-content{
+    background-color: beige;
+}
+
+.important-shipping{
+        border: 10px pink solid;
+}
+
